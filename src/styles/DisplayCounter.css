@@ -1,0 +1,21 @@
+.displayContainer {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+}
+
+.counterText {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 38px;
+  color: aliceblue;
+  border: 1px solid rgb(221, 221, 234);
+  border-radius: 10px;
+  background-color: rgb(72, 72, 228);
+  padding: 0 18px;
+}
+
+.counterSeparator {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 40px;
+  color: rgb(72, 72, 228);
+}

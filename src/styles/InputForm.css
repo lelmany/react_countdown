@@ -1,0 +1,12 @@
+.inputForm {
+  display: inline-block;
+  flex-direction: row;
+  margin-right: 30px;
+}
+
+.inputField {
+  font-size: 18px;
+  border: 1px solid gray;
+  border-radius: 5px;
+  padding: 5px 15px;
+}
